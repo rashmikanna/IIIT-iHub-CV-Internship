@@ -1,1 +1,2 @@
 Week 2 extra video task: applied yolo26 to week 1 video, added background music
+result: due to the pretrained dataset limitations, yolo26 successfully detected the moving objects (bees) but misclassified them as persons or trucks as it was not pretrained on any insect category.
