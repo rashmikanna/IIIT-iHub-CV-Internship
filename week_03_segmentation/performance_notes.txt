@@ -1,0 +1,3 @@
+Note on Performance Metrics:
+
+These metrics generated using COCO8 validation dataset. Since my custom video of birds did not have truth labels, I used a standardized benchmark to verify YOLO26 model accuracy, precision, and recall. Confirmed the model is performing at a high level and is reliable for the bird category 
