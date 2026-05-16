@@ -1,0 +1,9 @@
+# YOLO Custom Dataset Configuration
+path: /home/rashmi/ihub_internship/custom_dataset
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: bee
